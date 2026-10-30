@@ -1,6 +1,6 @@
 #include<iostream>
 #include<string>
-//test
+//test 2
 using namespace std;
 
 int main()
